@@ -1,9 +1,9 @@
-#Shopping basket cost calculator
+## Shopping basket cost calculator
 
 Spring Boot application to calculate cost of shopping basket.
 
 
-##Objective
+## Objective
 Using Java, write a simple program that calculates the price of a basket of shopping.
 
 The solution should be accomplished in roughly two hours.
